@@ -31,6 +31,7 @@ public class Card {
     }
 
     public void setSampleSize() {
-        //a change
+        //a change no now this is a change
+        String str = "String";
     }
 }
