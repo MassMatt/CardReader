@@ -33,5 +33,9 @@ public class Card {
     public void setSampleSize() {
         //a change no now this is a change
         String str = "String";
+        System.out.println("A");
+        System.out.println("Couple");
+        System.out.println("More");
+        System.out.println("Lines");
     }
 }
